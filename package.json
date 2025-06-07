@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nirbhay216/github-actions-nodejs/issues"
   },
-  "homepage": "https://github.com/Nirbhay216/github-actions-nodejs#readme"
+  "homepage": "https://github.com/Nirbhay216/github-actions-nodejs#readme",
+  "dependencies": {
+    "os-utils": "^0.0.14"
+  }
 }
